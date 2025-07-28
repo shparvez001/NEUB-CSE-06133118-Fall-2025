@@ -22,7 +22,7 @@ Part 2: Arduino (Work to be done by group of 2)
 |Item       |Mark   |
 |-----------|-------|
 |Attendance | 10    |
-|Lab Performance | 20    |
+|Lab PerforMAINce | 20    |
 |Lab Test | 40    |
 |Project + Viva | 30    |
 
@@ -56,7 +56,7 @@ MAIN PROC
     MOV BL, AL ;  Store the value of AL into BL
     
     
-ENDP MAN
+ENDP MAIN
 END MAIN
 ```
 
@@ -69,7 +69,7 @@ Printing characters in 8086 Assembly code.
 .DATA
 .CODE
 MAIN PROC     
-    MOV AH, 2 ; For Outputting character  in  command window
+    MOV AH, 2 ; For Outputting character  in  comMAINd window
     ;MOV DL, 41H
     MOV DL, 'A'
     INT 21h   
@@ -96,7 +96,7 @@ MAIN PROC
     INT 21h    
     
     
-ENDP MAN
+ENDP MAIN
 END MAIN
 ```
 
@@ -128,7 +128,7 @@ MAIN PROC
     INT 21h    
     
     
-ENDP MAN
+ENDP MAIN
 END MAIN
 ```
 
@@ -174,7 +174,7 @@ MAIN PROC
     INT 21h    
     
     
-ENDP MAN
+ENDP MAIN
 END MAIN
 ```
 
@@ -198,6 +198,6 @@ MAIN PROC
     MOV AH, 4CH
     INT 21h    
     
-ENDP MAN
+ENDP MAIN
 END MAIN
 ```
