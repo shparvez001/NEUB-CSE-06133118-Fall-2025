@@ -498,19 +498,6 @@ First capital = H Last capital = A
 Solution to be done by students
 ```
 
-## Task 14
-
-
-```asm
-
-```
-
-## Task 15
-
-
-```asm
-
-```
 
 ## Tasks to be done by students
 1. Section 6.5: Programming with High-Level Structures
