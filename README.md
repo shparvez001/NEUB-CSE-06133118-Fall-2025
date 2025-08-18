@@ -39,7 +39,7 @@ NEUB CSE Microprocessor and Interfacing Lab Fall 2025
 	  12. Write a program to display a "?", read two capital letters, and display them on the next line in alphabetical order.
 	  13. Write a code to take a string input and print the first and last capital letters in the string as appeared in the string
 4. [Lab 4](https://github.com/shparvez001/NEUB-CSE-06133118-Fall-2025/tree/main/lab-4.md).
-	  1. Introduction to logical instructions
+	1. Introduction to logical instructions
       2. Use TEST instruction to check if the register AX has a value 0 or not and print the status
       3. Use logical instructions to check if an input number is odd or even. Also print if the number is odd or even
       4. Use only logical instruction to convert characters from uppercase to lowercase
@@ -53,3 +53,11 @@ NEUB CSE Microprocessor and Interfacing Lab Fall 2025
       12. Multiplication procedure by addition
       13. Multiply and division instruction
 
+5. [Lab 5](https://github.com/shparvez001/NEUB-CSE-06133118-Fall-2025/tree/main/lab-5.md).
+	1. Decimal Input Procedure
+      2. Decimal input output procedure 
+      3. Write a procedure to find the factorial of a number stored in cx.
+      4. Take 2 decimal numbers greater than 10 as inputs and print their sum,  difference, and product afterwards.
+      5. Sum of 10 elements in array
+      6. Sum of elements in array ending with $
+      7. Array (Each element is 16 bit) Reverse Procedure
