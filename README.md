@@ -61,3 +61,4 @@ NEUB CSE Microprocessor and Interfacing Lab Fall 2025
       5. Sum of 10 elements in array
       6. Sum of elements in array ending with $
       7. Array (Each element is 16 bit) Reverse Procedure
+      8. Finding the average of different tests

@@ -505,6 +505,13 @@ reverse endp
 END MAIN
 ```
 
+## Task 8 (Two dimensional array usage. Program listing 10.4)
+Finding the average of different tests
+
+```asm
+To be done by students   
+```
+
 ## Tasks to be done by students
 1. Task 4: Take 2 decimal numbers greater than 10 as inputs and print their sum,  difference, and product afterwards.
 2. Add hex input output  and binary input output procedure to the decimal input out put procedure and do the following tasks.
