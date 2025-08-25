@@ -62,3 +62,12 @@ NEUB CSE Microprocessor and Interfacing Lab Fall 2025
       6. Sum of elements in array ending with $
       7. Array (Each element is 16 bit) Reverse Procedure
       8. Finding the average of different tests
+6. [Lab 6](https://github.com/shparvez001/NEUB-CSE-06133118-Fall-2025/tree/main/lab-6.md).
+	1. Basic XLAT usage
+      2. Encoding and decoding message using XLAT
+      3. Introduction to MOVSB instruction and REP prefix
+      4. Write instructions to copy STRING 1 of the preceding task into STRING2 In reverse order.
+      5. String read and print
+      6. String reverse print using stosb and lodsb
+      7. Use of SCASB instruction and REPNZ prefix.
+      8. Counting vowels and consonants using scan string instruction
