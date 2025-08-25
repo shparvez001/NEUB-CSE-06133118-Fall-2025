@@ -22,7 +22,7 @@ Part 2: Arduino (Work to be done by group of 2)
 |Item       |Mark   |
 |-----------|-------|
 |Attendance | 10    |
-|Lab PerforMAINce | 20    |
+|Lab Performance | 20    |
 |Lab Test | 40    |
 |Project + Viva | 30    |
 
