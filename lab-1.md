@@ -32,12 +32,21 @@ Part 2: Arduino (Work to be done by group of 2)
 * Project must not be any works done in lab
 * Project must be completed in lab
 
-#### Project Group Members (updated 27-07-2025)
+#### Project Group Members (updated 08-09-2025)
 |Group | Members|
 |---------|--------|
-|1||
-|2||
-
+|1|Shaon (07), Sumaiya(30)|
+|2|Rafia (55), Murshada (03)|
+|3|Thamina (20), Zarin (60)|
+|4|Jakia (37), Afifa (68)|
+|5|Tanzina (02), Jahid (22)|
+|6|MUshahid (48), Emon (54)|
+|7|Masuma (08), Shajeda (29)|
+|8|Choity (24), Shourov(202)|
+|9|Rima (31), Maliha (34)|
+|10| Tanvir (06), Ahnaf(32)|
+|11|Sumaiya(09), Habiba (33)|
+|12|Abdullah (56), Urmi (51)|
 
 ## Task 1
 Basic Structure of 8086 Assembly code.
