@@ -5,7 +5,7 @@ LED blinking code in AVR.
 
 Circuit:
 
-![Lab 9 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Fall-2025/main/lab-9/CSE-06133118-322-2501-lab9-task-1CKT_bb.png)
+![Lab 9 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-9/CSE-06133118-2502-lab9-task-1CKT_bb.png)
 
 Code:
 ```c
@@ -34,7 +34,7 @@ Basic Input and output code for AVR.
 
 Circuit:
 
-![Lab 9 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-Microprocessor-and-Interfacing-Lab-Fall-2025/main/lab-9/CSE-06133118-322-2501-lab9-task-2CKT_bb.png)
+![Lab 9 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-9/CSE-06133118-2502-lab9-task-2CKT_bb.png)
 
 Code:
 ```c

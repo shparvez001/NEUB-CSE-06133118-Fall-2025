@@ -71,3 +71,8 @@ NEUB CSE Microprocessor and Interfacing Lab Fall 2025
       6. String reverse print using stosb and lodsb
       7. Use of SCASB instruction and REPNZ prefix.
       8. Counting vowels and consonants using scan string instruction
+7. Lab 7: Midterm Lab exam
+8. Lab 8: Introduction to hardware
+9. [Lab 9](https://github.com/shparvez001/NEUB-CSE-06133118-Fall-2025/tree/main/lab-9.md).
+	1. LED blinking code in AVR.
+      2. Basic Input and output code for AVR.
