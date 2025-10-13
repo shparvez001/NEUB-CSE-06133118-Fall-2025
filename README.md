@@ -76,3 +76,9 @@ NEUB CSE Microprocessor and Interfacing Lab Fall 2025
 9. [Lab 9](https://github.com/shparvez001/NEUB-CSE-06133118-Fall-2025/tree/main/lab-9.md).
 	1. LED blinking code in AVR.
       2. Basic Input and output code for AVR.
+10. [Lab 10](https://github.com/shparvez001/NEUB-CSE-06133118-Fall-2025/tree/main/lab-10.md).
+	1. EEPROM read and write code.
+      2. Using EEPROM to store a pattern of LED and pulsing through the pattern.
+      3. Create a function to output PWM with a specified duty cycle to any given pin. eg: pwm(pinName, dutyCycle);.
+      4. PWM using `analogWrite()` function.
+      5. Use `analogWrite()` to create a fading LED effect.
