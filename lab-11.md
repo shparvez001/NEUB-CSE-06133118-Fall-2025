@@ -4,7 +4,7 @@
 Reading analong value using built-in ADC.
 
 Circuit:
-![Lab 11 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001NEUB-CSE-06133118-Fall-2025/main/lab-11/CSE-06133118-322-2501-lab7-task-1CKT_bb.png)
+![Lab 11 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-11/CSE-06133118-2502-lab11-task-1CKT_bb.png)
 
 Code:
 ```c
@@ -32,7 +32,7 @@ void loop() {
 Reading voltage using built-in ADC and showing it in serial monitor.
 
 Circuit:
-![Lab 7 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001NEUB-CSE-06133118-Fall-2025/main/lab-11/CSE-06133118-322-2501-lab7-task-2CKT_bb.png)
+![Lab 7 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-11/CSE-06133118-2502-lab11-task-2CKT_bb.png)
 
 Code:
 ```c
@@ -56,7 +56,7 @@ void loop() {
 Using LDR as sensor.
 
 Circuit:
-![Lab 7 Task 3 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001NEUB-CSE-06133118-Fall-2025/main/lab-11/CSE-06133118-322-2501-lab7-task-3CKT_bb.png)
+![Lab 7 Task 3 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-11/CSE-06133118-2502-lab11-task-3CKT_bb.png)
 
 Code:
 ```c
@@ -94,7 +94,7 @@ void loop() {
 Write an arduino code change the status of LED (on or off) based on switch input.
 
 Circuit:
-![Lab 7 Task 4 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001NEUB-CSE-06133118-Fall-2025/main/lab-11/CSE-06133118-322-2501-lab7-task-4CKT_bb.png)
+![Lab 7 Task 4 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-11/CSE-06133118-2502-lab11-task-4CKT_bb.png)
 
 Code:
 ```c
