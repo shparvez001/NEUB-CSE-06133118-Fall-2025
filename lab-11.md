@@ -1,4 +1,4 @@
-# NEUB CSE Microprocessor and Interfacing Lab Fall 2025 Lab 11
+# NEUB CSE-06133118 Microprocessor and Interfacing Lab Fall 2025 Lab 11
 
 ## Task 1
 Reading analong value using built-in ADC.

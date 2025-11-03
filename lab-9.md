@@ -1,4 +1,4 @@
-# NEUB CSE Microprocessor and Interfacing Lab Fall 2025 Lab 9
+# NEUB CSE-06133118 Microprocessor and Interfacing Lab Fall 2025 Lab 9
 
 ## Task 1
 LED blinking code in AVR.

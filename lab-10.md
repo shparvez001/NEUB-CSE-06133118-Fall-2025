@@ -1,4 +1,4 @@
-# NEUB CSE Microprocessor and Interfacing Lab Fall 2025 Lab 10
+# NEUB CSE-06133118 Microprocessor and Interfacing Lab Fall 2025 Lab 10
 
 ## Task 1
 EEPROM read and write code.
