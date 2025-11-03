@@ -4,7 +4,7 @@
 Write an arduino code change the status of LED (on or off) based on switch input with a debounce delay of 100ms. 
 
 Circuit:
-![Lab 12 Task 1 Circuit in breadboard]((https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-12/CSE-06133118-2502-lab12-task-1CKT_bb.png)
+![Lab 12 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-12/CSE-06133118-2502-lab12-task-1CKT_bb.png)
 
 Code:
 ```c
@@ -45,7 +45,7 @@ void loop() {
 Using switch with interrupt.
 
 Circuit:
-![Lab 12 Task 2 Circuit in breadboard]((https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-12/CSE-06133118-2502-lab12-task-2CKT_bb.png)
+![Lab 12 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-12/CSE-06133118-2502-lab12-task-2CKT_bb.png)
 
 ```c
 int ledPin=13;
