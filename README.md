@@ -87,3 +87,9 @@ NEUB CSE Microprocessor and Interfacing Lab Fall 2025
       2. Reading voltage using built-in ADC and showing it inb serial monitor.
       3. Using LDR as sensor.
       4. Write an arduino code change the status of LED (on or off) based on switch input.
+
+12. [Lab 12](https://github.com/shparvez001/NEUB-CSE-06133118-Fall-2025/tree/main/lab-12.md).
+      1. Write an arduino code change the status of LED (on or off) based on switch input with a debounce delay of 100ms. 
+      2. Using switch with interrupt.
+      3. Driving DC motor using L298 motor driver module.
+      4. Varying Speed of DC motor using L298 motor driver module.
