@@ -44,6 +44,12 @@ void loop()
 ## Task 2
 Design a Light Follower Robot with 3 LDR.
 
+![Light Follower Robot Structure](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-06133118-Fall-2025/main/lab-14/light%20Follower.png)
+Light follower robot is a type of autonomous robot that uses light sensors to detect the direction of light and move towards it. The robot typically has three light sensors placed on front, which allows it to determine the direction of the light source. Based on the readings from these sensors, the robot can adjust its movement to follow the light.
+
+Circuit:
+
+//To be done by students
 
 Code:
 ```c
